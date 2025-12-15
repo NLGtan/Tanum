@@ -1,12 +1,8 @@
-import React from 'react'
-import Hero from './pages/Hero'
-
-
+import React from "react";
+import Hero from "./pages/Hero";
 
 const App = () => {
-  return (
-    <Hero/>
-    )
-}
+  return <Hero />;
+};
 
-export default App
+export default App;
